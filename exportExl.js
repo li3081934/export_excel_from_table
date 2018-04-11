@@ -1,9 +1,4 @@
-/**
- * 作者：李杰双
- * 日期：2017/9/1
- * 邮件：282810545@qq.com
- * 文件说明：前端导出EXL
- */
+
 var exportExl = function () {
   //var idTmr;
 
